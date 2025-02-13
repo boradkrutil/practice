@@ -1,1 +1,3 @@
 this is task 3 file
+
+bug fixed in this file 
