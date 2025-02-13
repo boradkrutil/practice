@@ -1,3 +1,6 @@
 hello world
 how are you
 first bug fixed 
+
+second bug was fixed
+all code are is working
